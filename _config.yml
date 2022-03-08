@@ -1,12 +1,13 @@
 # Site settings
-title:
-email:
+title: Gas Bee Garage
+email: info@gasbeegarage.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+youtube_channel_name: Gas Bee Garage
+instagram_username: gasbeegarage
+facebook_username: gasbeegarages
 
 # Build settings
 markdown: kramdown
